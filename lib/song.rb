@@ -52,3 +52,7 @@ class Song
   end
 
 end
+
+Song.genres
+Song.artist_count
+Song.genre_count
